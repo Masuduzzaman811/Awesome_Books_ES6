@@ -106,6 +106,7 @@ button {
 }
 
 .form {
+  display: none;
   margin-top: 4rem;
 }
 
